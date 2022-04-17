@@ -10,6 +10,8 @@ install a related graphql packages that found from NestJS offical docs
 By using right decorator in resolver file, our schema will be generated automatically.  
 Accessible at http://localhost:3000/graphql
 
+## 1.2 ObjectType
+created an entity for the object types
 
 ## reference
 https://github.com/nomadcoders/nuber-eats-backend
